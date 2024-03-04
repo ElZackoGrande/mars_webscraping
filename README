@@ -1,1 +1,10 @@
-Contains 2 jupyter notebook files and a CSV export
+Contains 2 jupyter notebook files and a CSV export.
+Analysis from Part 2 - 
+
+- There are 12 months on Mars.
+- There are 1,867 days of data.
+- Month 3 has the lowest average temperature, and month 8 has the highest. I'm not sure if month 3 corresponds to March and if month 8 corresponds to August so I'm sticking with calling them months 3 and 8.
+- Month 6 had the lowest average atmospheric pressure and month 9 has the highest.
+- Based on the daily minimum temperatures graph spanning 1,867 days, looking at peak to peak lowest average temp, i see a span from about day 500 to about day 1250, likewise highest average peak to peak somewhere 
+around 800 to about 1450. Minimum to minimum visual estimated difference is 750, maximum to maximum visual estimate difference is 650. Averaging this out, I think a Martian year is about 700 days. 
+I Googled it and a Mars year is 687 Earth day, so this estimate is close, within 25%.
